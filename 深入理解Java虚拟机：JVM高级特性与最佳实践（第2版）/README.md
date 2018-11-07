@@ -10,7 +10,7 @@
 
 1. [走进Java](https://github.com/rainbowda/book-mindmap/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89/1.%E8%B5%B0%E8%BF%9BJava.xmind)
 ## 第二部分 自动内存管理机制
-2. [Java内存区域与内存溢出异常]()
+2. [Java内存区域与内存溢出异常](https://github.com/rainbowda/book-mindmap/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89/2.Java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%BC%82%E5%B8%B8.xmind)
 3. [垃圾收集器与内存分配策略]()
 4. [虚拟机性能监控与故障处理工具]()
 5. [调优案例分析与实战]()
