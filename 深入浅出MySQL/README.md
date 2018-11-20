@@ -18,8 +18,8 @@
 
 ## 开发篇
 7. [表类型(存储引擎)的选择](https://github.com/rainbowda/book-mindmap/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMySQL/07.%E8%A1%A8%E7%B1%BB%E5%9E%8B(%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E)%E7%9A%84%E9%80%89%E6%8B%A9.xmind)
-8. [选择合适的数据类型]()
-9. [字符集]()
+8. [选择合适的数据类型（跳过）](https://github.com/rainbowda/book-mindmap/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMySQL/08.%E9%80%89%E6%8B%A9%E5%90%88%E9%80%82%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.xmind)
+9. [字符集（跳过）](https://github.com/rainbowda/book-mindmap/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMySQL/09.%E5%AD%97%E7%AC%A6%E9%9B%86.xmind)
 10. [索引的设计和使用]()
 11. [视图]()
 12. [存储过程和函数]()
